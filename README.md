@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨️ About Coding 
+✨️ About Coding ✨️
 
 💻 Devices :
 PS31 Controller, TI-Calculator, PC
