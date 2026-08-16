@@ -1,4 +1,4 @@
-## ✨️Presentation✨️
+## Presentation
 
 <!--
 **Chris-Delcuse/Chris-Delcuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+✨️ About Coding 
+
+💻 Devices :
+PS31 Controller, TI-Calculator, PC
+
+👅 Languages :
+IL, TI-basic, C, Cpp
+
+🚀 Os: windows/linux
+
+Otherwise/in short/in brief : i hate cheaters !
+
 ![Selphie](https://raw.githubusercontent.com/Chris-Delcuse/Chris-Delcuse/refs/heads/main/Chris_Delcuse.jpg)
