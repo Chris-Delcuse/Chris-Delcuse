@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 -->
 ✨️ About Coding ✨️
 
-💻 Devices :
+💻 Devices:
 PS31 Controller, TI-Calculator, PC
 
-👅 Languages :
+👅 Languages:
 IL, TI-basic, C, Cpp
 
 🚀 Os: windows/linux
-
-Otherwise/in short/in brief : i hate cheaters !
 
 ![Selphie](https://raw.githubusercontent.com/Chris-Delcuse/Chris-Delcuse/refs/heads/main/Chris_Delcuse.jpg)
