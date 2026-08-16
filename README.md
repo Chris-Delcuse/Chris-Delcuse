@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 💻 Devices: PS31 Controller, TI-Calculator, PC
 
-👅 Languages: IL, TI-basic, C, Cpp
+👅 Languages: IL, TI-Basic, C, Cpp
 
 🚀 OS: Windows/Linux
 
