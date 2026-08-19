@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 Devices: PS3 Controller, TI-Calculator, PC
+💻 Devices: PS3 Logic Controller, TI-Calculator, PC
 
 👅 Languages: IL, TI-Basic, C, Cpp
 
