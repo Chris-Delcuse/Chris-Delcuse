@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 💻 Devices: PS3/PS4 Logic Controller, TI-Calculator, PC
 
-👅 Languages: IL, TI-Basic, C, Cpp
+👅 Languages: IL, TI-Basic, C, C#
 
 🚀 OS: Windows/Linux
 
