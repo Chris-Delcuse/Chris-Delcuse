@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 🚀 OS: Windows/Linux
 
-![Selphie](https://raw.githubusercontent.com/Chris-Delcuse/Chris-Delcuse/refs/heads/main/Chris_Delcuse.jpg)
+![Selphie](https://upload.wikimedia.org/wikipedia/commons/8/8e/Chris_delcuse.jpg)
