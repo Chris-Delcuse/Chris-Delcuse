@@ -8,9 +8,9 @@ Lyçée Général et Technologique Auguste Béhal.
 
 The first achievement was the design of a Numerically Controlled (NC) machine consisting of a technological triplet combining: touchscreen, programmable logic controller, and speed variator, the whole driving an asynchronous motor.
 
-(called: Numerized Axis).
+Project strongly inspired by proximity with IG2I also called: Numerized Axis.
 
 More precisely, it is an arm that moves along a helical axis.
 
 
-I'm an Engineer 🔧
+I'm an Engineer !
