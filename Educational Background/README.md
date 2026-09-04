@@ -1,4 +1,4 @@
-I've coded my first PS3 Logic controller in these buildings, which recall former factories, from the smallest digital displays to the bigger intersection signals 🚦.
+I've coded my first PS3 Logic controller in these buildings which recall former factories, from the smallest digital displays to the bigger intersection signals 🚦.
 
 
 ![Photography](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Lyc%C3%A9e_Auguste_B%C3%A9hal_de_Lens_locaux_techniques.jpg/1280px-Lyc%C3%A9e_Auguste_B%C3%A9hal_de_Lens_locaux_techniques.jpg)
