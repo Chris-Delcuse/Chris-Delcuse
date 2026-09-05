@@ -10,7 +10,7 @@ qur j’ai publier, sur une plateforme qui a pas percer 🤣
 
 Sur linux j’ai commencer par recompiler la distrib ( petit challenge ) pour mon pauv Athlon x64 qui etait boudé par les OS au profit de leurs versions x86.
 
-entre 2 j’ai essayer la semantique mais sur les bonobos, mais ca marche pas, ils veulent gologolo dans la case, bref ils travaillent sur la paix dans le monde 🤣
+entre 2 j’ai essayer la semantique sur les bonobos, mais ca marche pas, ils veulent gologolo dans la case, bref ils travaillent sur la paix dans le monde 🤣
 
 donc j’ai repris mon pc
 
@@ -23,7 +23,7 @@ la mint 17
 & Codeblocks.
 
 
-Comme a mon habitude, l’oseille, le cheat et la facilité !
+Comme a mon habitude, l’oppulence l’oseille, le cheat et la facilité !
 
 en termes de pilotage de dispositif i forormatique domestique BOX, NAS, PC/Smartphone j’ai jamais eu d’aussi bons resultats, qu’avec cette distrib.
 
