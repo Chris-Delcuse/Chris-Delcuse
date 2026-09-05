@@ -4,7 +4,7 @@ Windows XP & Visual Studio
 J’achetais du code en C# dans des magasines que je modifais.
 
 J’ai recompiler un petit jeu sympa.
-qur j’ai publier
+qur j’ai publier, sur une plateforme qui a pas percer 🤣
 
 2007 - Arrivée de Linux a bord du vaisseau amiral, j’ai tester des dizaines d’install differentes.
 
