@@ -8,7 +8,7 @@ qur j’ai publier, sur une plateforme qui a pas percer 🤣
 
 2007 - Arrivée de Linux a bord du vaisseau amiral, j’ai tester des dizaines d’install differentes.
 
-Sur linux j’ai commencer par recompiler la distrib ( petit challenge noyau, distrib, logiciels ) pour mon pauv Athlon x64 overclocké à 10% par le bios ( un overclock propre t’as vu ! ) qui etait boudé par les OS au profit de leurs versions x86.
+Sur linux j’ai commencer par recompiler la distrib ( petit challenge noyau, distrib, logiciels ) pour mon pauv Athlon x64 overclocké à 10% par le bios ( un overclock propre t’as vu ! pas un truc de geek de merde  ) qui etait boudé par les OS au profit de leurs versions x86.
 
 entre 2 j’ai essayer la semantique sur les bonobos, mais ca marche pas, ils veulent gologolo dans la case, bref ils travaillent sur la paix dans le monde 🤣
 
