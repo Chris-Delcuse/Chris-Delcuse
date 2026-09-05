@@ -7,10 +7,4 @@ _GTE Automotive_
 
 Indeed, it makes perfect sense, considering the protection of G-Code transfer against the electromagnetic environment typical of this kind of company.
 
-Defying the whole conventional scheme about technological fallouts, it seems that it was the industry that made fiber optics accessible to everyone, not aerospace.
-
-What would the aerospace sector be without the industry?
-
-And it makes perfect sense too.
-
-I'm an Engineer, but not yours !
+I'm an Engineer !
