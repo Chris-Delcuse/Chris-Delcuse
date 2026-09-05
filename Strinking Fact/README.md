@@ -1,6 +1,6 @@
 ### 2002
 
-While doing my end-of-study internship that would allow me to get my BTS, I noticed that the company was using fiber optics in their local network to accommodate their future CNC machine.  
+While doing my end-of-study internship that would allow me to get my diploma, I noticed that the company was using fiber optics in their local network to accommodate their future CNC machine.  
 
 ![Photography](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/GTE_Automotive.jpg/1280px-GTE_Automotive.jpg)
 _GTE Automotive_
