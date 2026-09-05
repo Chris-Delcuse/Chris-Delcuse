@@ -15,6 +15,8 @@ Worked with Windows XP and Visual Studio.
 Learned C# by modifying and adapting source code from specialized magazines.
 Recompiled and published a small game.
 
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" 
 alt="Linux">
