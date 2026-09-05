@@ -22,6 +22,9 @@ OpenClassroom
 la mint 17 
 & Codeblocks.
 
+
+Comme a mon habitude le cheat et la facilité !
+
 en termes de pilotage de dispositif i forormatique domestique BOX, NAS, PC/Smartphone j’ai jamais eu d’aussi bons resultats, qu’avec cette distrib.
 
 le FAI c’est aussi determinant.
