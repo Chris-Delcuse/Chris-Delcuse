@@ -9,4 +9,6 @@ Indeed, it makes perfect sense, considering the protection of G-Code transfer ag
 
 Defying the whole conventional scheme about technological fallouts, it seems that it was the industry that made fiber optics accessible to everyone, not aerospace.
 
-👽 To be continued...
+What would the aerospace sector be without the industry?
+
+And it makes perfect sense too, isn’t it ?
