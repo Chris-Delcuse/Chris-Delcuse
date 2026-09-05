@@ -25,7 +25,7 @@ la mint 17
 
 Comme a mon habitude, l’oppulence l’oseille, le cheat et la facilité !
 
-en termes de pilotage de dispositif i forormatique domestique BOX, NAS, PC/Smartphone j’ai jamais eu d’aussi bons resultats, qu’avec cette distrib.
+en termes de pilotage de dispositif informatique domestique BOX, NAS, PC/Smartphone j’ai jamais eu d’aussi bons resultats, qu’avec cette distrib.
 
 le FAI c’est aussi determinant.
 
