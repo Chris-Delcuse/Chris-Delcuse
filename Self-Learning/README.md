@@ -20,4 +20,4 @@ Blackout - Experimented with semantic programming, then returned to more foundat
 
 2014 - Development environment based on Linux Mint 17.
 Learned the C language using Code::Blocks.
-Structured learning through OpenClassrooms, combined with Linux Mint 17 and Code::Blocks.
+Structured learning through OpenClassrooms.
