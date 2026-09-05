@@ -10,7 +10,7 @@ A chronological overview of my self-taught programming path.
 
 ### 2005
 
-2005 = Built my first personal computer.
+Built my first personal computer.
 Worked with Windows XP and Visual Studio.
 Learned C# by modifying and adapting source code from specialized magazines.
 Recompiled and published a small game.
