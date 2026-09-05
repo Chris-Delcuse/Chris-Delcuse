@@ -15,6 +15,8 @@ Worked with Windows XP and Visual Studio.
 Learned C# by modifying and adapting source code from specialized magazines.
 Recompiled and published a small game.
 
+At the same time, I’m testing uploading HTML pages on what was called 'personal pages,' a subscriber space provided by the ISP.
+
 <br>
 
 <p align="center">
