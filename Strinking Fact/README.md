@@ -7,7 +7,6 @@ _(For comparison, internet ran with ADSL 1.)_
 ![Photography](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/GTE_Automotive.jpg/1280px-GTE_Automotive.jpg)
 _GTE Automotive_
 
-For comparison, internet ran with ADSL 1.
 
 So, it makes perfect sense, considering the protection of G-Code transfer against the electromagnetic environment typical of this kind of company.
 <br></br>
