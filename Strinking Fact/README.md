@@ -11,11 +11,4 @@ Defying the whole conventional scheme about technological fallouts, it seems tha
 
 What would the aerospace sector be without the industry?
 
-And it makes perfect sense too, isn’t it ?
-
-
-you must anwsering by : 
-
-for sure ! or sir yes sir !
-
-fucking noob ! 
+And it makes perfect sense too.
