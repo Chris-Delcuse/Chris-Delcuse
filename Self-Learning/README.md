@@ -1,1 +1,14 @@
+2005 = Built my first personal computer.
+Worked with Windows XP and Visual Studio.
+Learned C# by modifying and adapting source code from specialized magazines.
+Recompiled and published a small game.
 
+2007 - Discovered and adopted Linux.
+Tested numerous distributions.
+Fully recompiled a distribution to support an Athlon 64 processor (x86-64 architecture), which had limited native support at the time.
+
+Blackout - Experimented with semantic programming, then returned to more foundational work on PC.
+
+2014 - Development environment based on Linux Mint 17.
+Learned the C language using Code::Blocks.
+Structured learning through OpenClassrooms, combined with Linux Mint 17 and Code::Blocks.
