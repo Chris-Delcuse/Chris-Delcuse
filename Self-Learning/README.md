@@ -39,5 +39,3 @@ Experimented with semantic programming, then returned to more foundational work 
 Development environment based on Linux Mint 17.
 Learned the C language using Code::Blocks.
 Structured learning through OpenClassrooms.
-
-In short, some leisure!
