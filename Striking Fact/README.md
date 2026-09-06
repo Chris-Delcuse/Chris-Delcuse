@@ -9,5 +9,3 @@ _GTE Automotive_
 
 
 So, it makes perfect sense, considering the protection of G-Code transfer against the electromagnetic environment typical of this kind of company.
-<br></br>
-I'm an Engineer !
