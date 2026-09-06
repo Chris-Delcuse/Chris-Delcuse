@@ -8,4 +8,4 @@ _(For comparison, internet ran with ADSL 1)_
 _GTE Automotive_
 
 
-So, it makes perfect sense, considering the protection of G-Code transfer against the electromagnetic environment typical of this kind of company.
+So, it makes perfect sense for me, considering the protection of G-Code transfer against the electromagnetic environment typical of this kind of company.
