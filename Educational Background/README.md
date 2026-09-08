@@ -7,7 +7,7 @@ I've coded my first PS3 Logic controller in these buildings which recall former 
 [_Lyçée Général et Technologique Auguste Béhal._](https://cite-auguste-behal-lens.62.ac-lille.fr/)
 
 
-### 2002 ParcourSup
+### 2002 Parcours Sup
 
 I have been thinking all the time about renewable energy, hybridization, and the electric car.
 
