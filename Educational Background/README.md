@@ -1,4 +1,4 @@
-### 1997
+### 1997 Baccalauréat Technologique
 
 I've coded my first PS3 Logic controller in these buildings which recall former factories, from the smallest digital displays to the bigger intersection signals🚦.
 
@@ -7,7 +7,7 @@ I've coded my first PS3 Logic controller in these buildings which recall former 
 [_Lyçée Général et Technologique Auguste Béhal._](https://cite-auguste-behal-lens.62.ac-lille.fr/)
 
 
-### 2002
+### 2002 ParcourSup (Formerly Post-Bac)
 
 The first achievement was the design of a Numerically Controlled machine consisting of a technological triplet combining: touchscreen, programmable logic controller, and speed variator, the whole driving an asynchronous motor.
 
