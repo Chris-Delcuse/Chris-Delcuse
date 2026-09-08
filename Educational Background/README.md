@@ -2,7 +2,6 @@
 
 I've coded my first PS3 Logic controller in these buildings which recall former factories, from the smallest digital displays to the bigger intersection signals🚦.
 
-
 ![Photography](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Lyc%C3%A9e_Auguste_B%C3%A9hal_de_Lens_locaux_techniques.jpg/1280px-Lyc%C3%A9e_Auguste_B%C3%A9hal_de_Lens_locaux_techniques.jpg)
 [_Lyçée Général et Technologique Auguste Béhal._](https://cite-auguste-behal-lens.62.ac-lille.fr/)
 
@@ -11,10 +10,10 @@ I've coded my first PS3 Logic controller in these buildings which recall former 
 
 I have been thinking all the time about renewable energies, hybridization and electric car.
 
-I am undertaking the internship that will allow me to obtain the diploma at an automotive bodywork Compagny.
-
 ![Photography](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/GTE_Automotive.jpg/1280px-GTE_Automotive.jpg)
 _GTE Automotive_
+
+I am undertaking the internship that will allow me to obtain the diploma at an automotive bodywork Compagny.
 
 Back in the classroom,
 
