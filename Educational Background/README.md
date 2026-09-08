@@ -9,7 +9,7 @@ I've coded my first PS3 Logic controller in these buildings which recall former 
 
 ### 2002 Parcours Sup
 
-I have been thinking all the time about renewable energy, hybridization, and the electric car.
+I have been thinking all the time about renewable energies, hybridization and electric car.
 
 I am therefore undertaking the internship that will allow me to obtain the diploma at an automotive bodywork Compagny.
 
@@ -18,7 +18,7 @@ _GTE Automotive_
 
 Back in the classroom,
 
-The real first achievement was the design of a numerically controlled machine consisting of a technological triplet combining: touchscreen, programmable logic controller, and speed variator, the whole driving an asynchronous motor.
+The first achievement was the design of a numerically controlled machine consisting of a technological triplet combining: touchscreen, programmable logic controller, and speed variator, the whole driving an asynchronous motor.
 
 More precisely, it is an arm that moves along a helical axis, assisted by an incremental coder. Project strongly inspired by the proximity with [IG2I](https://ig2i.centralelille.fr/) also called: Numerized Axis.
 
