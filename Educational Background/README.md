@@ -26,4 +26,4 @@ I'm an Engineer !
 
 -----
 
-Striking fact : The company was using fiber optics in their local network to accommodate their future CNC machine and internet ran with ADSL 1 :)
+_Striking fact : The company was using fiber optics in their local network to accommodate their future CNC machine and internet ran with ADSL 1 :)_
