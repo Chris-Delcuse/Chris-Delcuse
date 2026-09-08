@@ -22,6 +22,8 @@ More precisely, it is an arm that moves along a helical axis, assisted by an inc
 
 
 I'm an Engineer !
+
+
 -----
 
-Striking fact :
+Striking fact : The company was using fiber optics in their local network to accommodate their future CNC machine and internet ran with ADSL 1 :)
