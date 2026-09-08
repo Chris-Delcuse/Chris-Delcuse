@@ -13,7 +13,8 @@ I have been thinking all the time about renewable energy, hybridization, and the
 
 I am therefore undertaking the internship that will allow me to obtain the diploma at an automotive bodywork Compagny.
 
-
+![Photography](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/GTE_Automotive.jpg/1280px-GTE_Automotive.jpg)
+_GTE Automotive_
 
 The first achievement was the design of a Numerically Controlled machine consisting of a technological triplet combining: touchscreen, programmable logic controller, and speed variator, the whole driving an asynchronous motor.
 
@@ -21,3 +22,6 @@ More precisely, it is an arm that moves along a helical axis, assisted by an inc
 
 
 I'm an Engineer !
+-----
+
+Striking fact :
