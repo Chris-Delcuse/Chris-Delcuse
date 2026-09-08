@@ -16,6 +16,8 @@ I am therefore undertaking the internship that will allow me to obtain the diplo
 ![Photography](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/GTE_Automotive.jpg/1280px-GTE_Automotive.jpg)
 _GTE Automotive_
 
+Back in the classroom,
+
 The real first achievement was the design of a Numerically Controlled machine consisting of a technological triplet combining: touchscreen, programmable logic controller, and speed variator, the whole driving an asynchronous motor.
 
 More precisely, it is an arm that moves along a helical axis, assisted by an incremental coder. Project strongly inspired by the proximity with [IG2I](https://ig2i.centralelille.fr/) also called: Numerized Axis.
