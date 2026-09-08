@@ -11,7 +11,7 @@ I've coded my first PS3 Logic controller in these buildings which recall former 
 
 I have been thinking all the time about renewable energies, hybridization and electric car.
 
-I am therefore undertaking the internship that will allow me to obtain the diploma at an automotive bodywork Compagny.
+I am undertaking the internship that will allow me to obtain the diploma at an automotive bodywork Compagny.
 
 ![Photography](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/GTE_Automotive.jpg/1280px-GTE_Automotive.jpg)
 _GTE Automotive_
