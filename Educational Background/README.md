@@ -19,6 +19,8 @@ Back in the classroom,
 
 The first achievement was the design of a numerically controlled machine consisting of a technological triplet combining: touchscreen, programmable logic controller, and speed variator, the whole driving an asynchronous motor.
 
+![Photography](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Lyc%C3%A9e_auguste_%C6%81%C3%A9hal_de_lens_vie_scolaire.jpg/1280px-Lyc%C3%A9e_auguste_%C6%81%C3%A9hal_de_lens_vie_scolaire.jpg)
+
 More precisely, it is an arm that moves along a helical axis, assisted by an incremental coder. Project strongly inspired by the proximity with [IG2I](https://ig2i.centralelille.fr/) also called: Numerized Axis.
 
 
