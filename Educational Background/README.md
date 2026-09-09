@@ -18,6 +18,7 @@ I am undertaking the internship that will allow me to obtain the diploma at an a
 Back in the classroom,
 
 ![Photography](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Lyc%C3%A9e_auguste_%C6%81%C3%A9hal_de_lens_vie_scolaire.jpg/1280px-Lyc%C3%A9e_auguste_%C6%81%C3%A9hal_de_lens_vie_scolaire.jpg)
+[_Lyçée Général et Technologique Auguste Béhal._](https://cite-auguste-behal-lens.62.ac-lille.fr/)
 
 The first achievement was the design of a numerically controlled machine consisting of a technological triplet combining: touchscreen, programmable logic controller, and speed variator, the whole driving an asynchronous motor.
 
