@@ -16,7 +16,7 @@ _GTE Automotive_
 I am undertaking the internship that will allow me to obtain the diploma at an automotive bodywork Compagny.
 
 Back in the classroom,
-( C’est pas biéntôt fini de rever Delcuse ? )
+( C’est pas biéntôt fini de rever Delcuse ? :) )
 
 ![Photography](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Lyc%C3%A9e_auguste_%C6%81%C3%A9hal_de_lens_vie_scolaire.jpg/1280px-Lyc%C3%A9e_auguste_%C6%81%C3%A9hal_de_lens_vie_scolaire.jpg)
 
