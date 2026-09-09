@@ -8,25 +8,9 @@ I've coded my first PS3 Logic controller in these buildings which recall former 
 
 ### 2002 Higher Education Path
 
-I have been thinking all the time about renewable energies, hybridization and electric car.
-
-![Photography](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/GTE_Automotive.jpg/1280px-GTE_Automotive.jpg)
-_GTE Automotive_
-
-I am undertaking the internship that will allow me to obtain the diploma at an automotive bodywork Compagny.
-
-Back in the classroom,
-
-![Photography](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Lyc%C3%A9e_auguste_%C6%81%C3%A9hal_de_lens_vie_scolaire.jpg/1280px-Lyc%C3%A9e_auguste_%C6%81%C3%A9hal_de_lens_vie_scolaire.jpg)
-[_Lyçée Général et Technologique Auguste Béhal._](https://cite-auguste-behal-lens.62.ac-lille.fr/)
-
 The first achievement was the design of a numerically controlled machine consisting of a technological triplet combining: touchscreen, programmable logic controller, and speed variator, the whole driving an asynchronous motor.
 
 More precisely, it is an arm that moves along a helical axis, assisted by an incremental coder. Project strongly inspired by the proximity with [IG2I](https://ig2i.centralelille.fr/) also called: Numerized Axis.
 
 
 I'm an Engineer !
-
------
-
-_Striking fact : The company was using fiber optics in local network to accommodate their future CNC machine and internet ran with ADSL 1 :)_
