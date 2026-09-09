@@ -1,4 +1,4 @@
-### 1997 Technological Baccalaureate
+### 1997 Technological Baccalaureate 🎓
 
 I've coded my first PS3 Logic controller in these buildings which recall former factories, from the smallest digital displays to the bigger intersection signals🚦.
 
@@ -6,7 +6,7 @@ I've coded my first PS3 Logic controller in these buildings which recall former 
 [_Lyçée Général et Technologique Auguste Béhal._](https://cite-auguste-behal-lens.62.ac-lille.fr/)
 
 
-### 2002 Higher Education Path
+### 2002 Higher Education Path 🎓
 
 I have been thinking all the time about renewable energies, hybridization and electric car.
 
