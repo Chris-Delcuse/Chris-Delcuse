@@ -1,3 +1,5 @@
+CC BY-SA 4.0
+
 Copyright (c) 2026 Chris Delcuse
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 
