@@ -1,4 +1,4 @@
-### 1997 Technological Baccalaureat
+### 1997 Technological "Baccalaureat"
 
 I've coded my first PS3 Logic controller in these buildings which recall former factories, from the smallest digital displays to the bigger intersection signals🚦.
 
