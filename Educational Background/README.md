@@ -18,10 +18,10 @@ I'm an Engineer !
 ----
 <div itemscope itemtype ="https://schema.org/Article">
   <div itemprop="Author" itemscope itemtype="https://schema.org/Person">
-  Author: <span itemprop="name">Chris Delcuse</span> (born <span itemprop="birthDate">1980</span>)
+  Author: <span itemprop="name">Chris Delcuse</span>
   </div>
   <span itemprop="genre">Story Telling</span>
-  <a href="https://x.com/ChrisDelcuse/status/2095832387284255049" itemprop="post">X.com Post Link</a>
+  <a href="https://x.com/ChrisDelcuse/status/2095832387284255049" itemprop="post">X.com Related Post</a>
   
   <time datetime="2026-05-09">September 5, 2026</time>
 </div>
