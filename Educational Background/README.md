@@ -14,8 +14,8 @@ More precisely, it is an arm that moves along a helical axis, assisted by an inc
 
 
 I'm an Engineer !
-<br></br>
 
+----
 <div itemscope itemtype ="https://schema.org/Article">
   <div itemprop="Author" itemscope itemtype="https://schema.org/Person">
   Author: <span itemprop="name">Chris Delcuse</span> (born <span itemprop="birthDate">1980</span>)
