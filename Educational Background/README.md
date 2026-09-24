@@ -14,3 +14,12 @@ More precisely, it is an arm that moves along a helical axis, assisted by an inc
 
 
 I'm an Engineer !
+<br></br>
+
+<div itemscope itemtype ="https://schema.org/Article">
+  <div itemprop="Author" itemscope itemtype="https://schema.org/Person">
+  Author: <span itemprop="name">Chris Delcuse</span> (born <span itemprop="birthDate">1980</span>)
+  </div>
+  <span itemprop="genre">Story Telling</span>
+  <a href="https://x.com/ChrisDelcuse/status/2095832387284255049" itemprop="post">X.com Post Link</a>
+</div>
