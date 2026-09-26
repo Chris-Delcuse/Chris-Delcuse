@@ -20,8 +20,8 @@ I'm an Engineer !
   <div itemprop="Author" itemscope itemtype="https://schema.org/Person">
   Author: <span itemprop="name">Chris Delcuse</span>
   </div>
-  <span itemprop="genre">Article:</span>
-  <a href="https://x.com/ChrisDelcuse/status/2095832387284255049" itemprop="post">X.com Related Post</a>
+  <span itemprop="genre">Related Post:</span>
+  <a href="https://x.com/ChrisDelcuse/status/2095832387284255049" itemprop="post">X.com</a>
   
   <time datetime="2026-05-09">September 5, 2026</time>
 </div>
