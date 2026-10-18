@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 👅 Languages: IL, TI-Basic, C, C#
 
 🚀 OS: Windows/Linux
-
-![Selphie](https://upload.wikimedia.org/wikipedia/commons/8/8e/Chris_delcuse.jpg)
