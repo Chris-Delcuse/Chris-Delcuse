@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 <div itemprop="Author" itemscope itemtype="https://schema.org/Person">
   <link itemprop="jobTitle" content="R&D Engineer in Industry - Electrotechnics" />
-  <link itemprop="sameAs" href="https://x.com.com/ChrisDelcuse" />
+  <link itemprop="sameAs" href="https://x.com.com/Chris_Delcuse" />
   <link itemprop="sameAs" href="https://linkedin.com/in/chris-delcuse" />
-  <link itemprop="sameAs" href="https://youtube.com/@ChrisDelcuse" />
-  <link itemprop="sameAs" href="https://instagram.com/ChrisDelcuse" />
+  <link itemprop="sameAs" href="https://youtube.com/@Chris-Delcuse" />
+  <link itemprop="sameAs" href="https://instagram.com/Chris_Delcuse" />
 </div>
