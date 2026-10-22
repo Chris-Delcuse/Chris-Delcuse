@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 🚀 OS: Windows/Linux
 
-<div itemprop="Author" itemscope itemtype="https://schema.org/Person">
-  <link itemprop="jobTitle" content="R&D Engineer in Industry - Electrotechnics" />
+<div itemprop="Author" itemscope itemtype="https://schema.org/Person" >
+  <meta itemprop="jobTitle" content="R&D Engineer in Industry - Electrotechnics" />
   <link itemprop="mainEntityOfPage" href="https://x.com.com/Chris_Delcuse" />
   <link itemprop="sameAs" href="https://linkedin.com/in/chris-delcuse" />
   <link itemprop="sameAs" href="https://youtube.com/@Chris-Delcuse" />
