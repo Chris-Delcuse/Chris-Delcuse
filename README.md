@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   <link itemprop="sameAs" href="https://x.com.com/ChrisDelcuse" />
   <link itemprop="sameAs" href="https://linkedin.com/in/chris-delcuse" />
   <link itemprop="sameAs" href="https://youtube.com/@ChrisDelcuse" />
-  <link itemprop="sameAs" href="https://instagram.com/@ChrisDelcuse" />
+  <link itemprop="sameAs" href="https://instagram.com/ChrisDelcuse" />
 </div>
