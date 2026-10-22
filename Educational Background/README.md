@@ -1,3 +1,6 @@
+ <div itemscope itemtype ="https://schema.org/Article">
+ </div>
+ 
 ### 1997 Technological "Baccalauréat"
 
 I've coded my first PS3 Logic controller in these buildings which recall former factories, from the smallest digital displays to the bigger intersection signals🚦.
@@ -16,10 +19,9 @@ More precisely, it is an arm that moves along a helical axis, assisted by an inc
 I'm an Engineer !
 
 ----
-<div itemscope itemtype ="https://schema.org/Article">
-  <div itemprop="Author" itemscope itemtype="https://schema.org/Person">
+<div itemprop="Author" itemscope itemtype="https://schema.org/Person">
   Author: <span itemprop="name">Chris Delcuse</span>
-  </div>
+    
   <span itemprop="genre">Related Post:</span>
   <a href="https://x.com/ChrisDelcuse/status/2095832387284255049" itemprop="post">X.com</a>
   
