@@ -23,7 +23,8 @@ I'm an Engineer !
   Author: <span itemprop="name">Chris Delcuse</span>
     
   <span itemprop="genre">Related Post:</span>
-  <a href="https://x.com/ChrisDelcuse/status/2095832387284255049" itemprop="post">X.com</a>
+  <a href="https://x.com/Chris_Delcuse/status/2095832387284255049?s=20"
+  itemprop="post">X.com</a>
   
   <time datetime="2026-05-09">September 5, 2026</time>
 </div>
