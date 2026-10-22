@@ -1,4 +1,4 @@
-  <div itemscope itemtype="https://schema.org/Code">
+<div itemscope itemtype="https://schema.org/Code">
   <meta itemprop="programmingLanguage" content="Chris-Delcuse" />
   <meta itemprop="codeRepository" content="https://github.com/Chris-Delcuse/Chris-Delcuse" />
   <meta itemprop="runtimePlatform" content="all around the World" />
@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 
 🚀 OS: Windows/Linux
 
-  <div itemprop="Author" itemscope itemtype="https://schema.org/Person">
+<div itemprop="Author" itemscope itemtype="https://schema.org/Person">
   <link itemprop="jobTitle" content="R&D Engineer in Industry - Electrotechnics" />
   <link itemprop="sameAs" href="https://x.com.com/chris-delcuse" />
   <link itemprop="sameAs" href="https://linkedin.com/in/chris-delcuse" />
   <link itemprop="sameAs" href="https://youtube.com/@ChrisDelcuse" />
-  <link itemprop="sameAs"
-href="https://instagram.com/@ChrisDelcuse" />
+  <link itemprop="sameAs" href="https://instagram.com/@ChrisDelcuse" />
 </div>
