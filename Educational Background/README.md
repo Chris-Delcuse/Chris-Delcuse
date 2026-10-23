@@ -19,7 +19,7 @@ More precisely, it is an arm that moves along a helical axis, assisted by an inc
 I'm an Engineer !
 
 ----
-<div itemprop="Author" itemscope itemtype="https://schema.org/Person">
+<div 
   Author: <span itemprop="name">Chris Delcuse</span>
     
   <span itemprop="genre">Related Post:</span>
