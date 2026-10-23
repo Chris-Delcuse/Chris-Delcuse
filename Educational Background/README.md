@@ -19,8 +19,7 @@ More precisely, it is an arm that moves along a helical axis, assisted by an inc
 I'm an Engineer !
 
 ----
-<div 
-  Author: <span itemprop="name">Chris Delcuse</span>
+Chris Delcuse
     
   <span itemprop="genre">Related Post:</span>
   <a href="https://x.com/Chris_Delcuse/status/2095832387284255049?s=20"
