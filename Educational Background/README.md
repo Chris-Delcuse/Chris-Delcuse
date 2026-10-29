@@ -8,7 +8,7 @@ I've coded my first PS3 Logic controller in these buildings which recall former 
 
 ### 2002 Higher Education Path
 
-The first achievement ( helped by Gégé & Jérem ) was the design of a numerically controlled machine consisting of a technological triplet combining: touchscreen, programmable logic controller, and speed variator, the whole driving an asynchronous motor.
+Helped by Gégé & Jérem, the first achievement was the design of a numerically controlled machine consisting of a technological triplet combining: touchscreen, programmable logic controller, and speed variator, the whole driving an asynchronous motor.
 
 More precisely, it is an arm that moves along a helical axis, assisted by an incremental coder. Project strongly inspired by the proximity with [_IG2I_](https://ig2i.centralelille.fr/) also called: Numerized Axis.
 
