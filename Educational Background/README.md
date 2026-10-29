@@ -12,7 +12,7 @@ Helped by Gégé & Jérem, the first achievement was the design of a numerically
 
 More precisely, it is an arm that moves along a helical axis, assisted by an incremental coder.
 
-Project strongly inspired by the proximity with [_IG2I_](https://ig2i.centralelille.fr/) also called: _Numerized Axis_.
+Project strongly inspired by the proximity with [_IG2I_](https://ig2i.centralelille.fr/) also called: **Numerized Axis**.
 
 
 I'm an Engineer !
