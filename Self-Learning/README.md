@@ -26,5 +26,5 @@ Fully recompiled a distribution to support an `Athlon 64` processor `(x86-64 arc
 ### 2014
 
 💻 Development environment based on `Linux Mint 17`.
-Learned the `C` language using `Code::Blocks`.
+Learned the `C language` using `Code::Blocks`.
 Structured learning through `OpenClassrooms`.
