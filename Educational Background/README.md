@@ -12,7 +12,7 @@ The first achievement was the design of a numerically controlled machine consist
 
 More precisely, it is an arm that moves along a helical axis, assisted by an incremental coder.
 
-Project strongly inspired by the proximity with [_IG2I_](https://ig2i.centralelille.fr/) and  realized with my Teammates Gégé & Jérem also called: **Numerized Axis**.
+Project strongly inspired by the proximity with [_IG2I_](https://ig2i.centralelille.fr/) and  realized with my Teammates Gégé & Jérem (main coder) also called: **Numerized Axis**.
 
 
 I'm an Engineer !
