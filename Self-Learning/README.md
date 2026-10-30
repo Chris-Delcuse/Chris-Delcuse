@@ -28,3 +28,5 @@ Fully recompiled a distribution to support an `Athlon 64` processor `(x86-64 arc
 💻 Development environment based on `Linux Mint 17`.
 Learned the `C language` using `Code::Blocks`.
 Structured learning through `OpenClassrooms`.
+
+Automation PC: setting up an existing script to get 'ClamAv' running in real time
