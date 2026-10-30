@@ -4,7 +4,7 @@ A chronological overview of my self-taught programming path.
 
 -----
 
-### 2005
+### 2006
 
 🖥 Built my first personal computer.
 Worked with `Windows XP` and `Visual Studio`.
