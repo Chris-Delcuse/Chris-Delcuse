@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Sucosoft (Ms-Dos)
 - Visual Studio
 - Code::Blocks
-- TI `[Var-Link]` & `[Program Editor]`
+- TI 0S v3.10
 
 🚀 OS:
 - Windows
