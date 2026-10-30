@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - TI-Basic
 - C, C#
 - Instruction List
+- Scripting Linux
 
 ⌨️ Environment (IDE)
 - Sucosoft (Ms-Dos)
