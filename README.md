@@ -15,8 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 Devices: PS3/PS4 Logic Controller, TI-Calculator, PC
+💻 Devices: 
+- TI-Calculator
+- PC
+- PS3/PS4 Logic Controller ( Actually: Easy Product Eaton- Möëller )
 
-👅 Languages: IL, TI-Basic, C, C#
+👅 Languages: 
+- TI-Basic
+- C, C#
+- Instruction List
 
-🚀 OS: Windows/Linux
+⌨️ Envrionnement
+- Sucosoft (Ms-Dos)
+- Visual Studio
+- Code::Blocks
+
+🚀 OS:
+- Windows
+- Linux
