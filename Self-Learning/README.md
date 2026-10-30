@@ -19,7 +19,7 @@ At the same time, i was testing `HTML`.
 Tested numerous distributions.
 Fully recompiled a distribution to support an `Athlon 64` processor `(x86-64 architecture)`, which had limited native support at the time.
 
-### Blackout
+### 2008 (Blackout)
 
 🎮 Experimented with semantic programming, then returned to more foundational work on PC.
 
