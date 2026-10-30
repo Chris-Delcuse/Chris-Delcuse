@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 💻 Devices: 
 - TI-Calculator
 - PC
-- PS3/PS4 Logic Controller ( Actually: Easy Product Eaton- Möëller )
+- PS3/PS4 Logic Controller '(Easy Product @Eaton-Möeller)'
 
 👅 Languages: 
 - TI-Basic
