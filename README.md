@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - C, C#
 - Instruction List
 
-⌨️ Environement
+⌨️ Environment
 - Sucosoft (Ms-Dos)
 - Visual Studio
 - Code::Blocks
