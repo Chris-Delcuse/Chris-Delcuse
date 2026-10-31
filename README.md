@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Scripting Linux
 
 ⌨️ Environment (IDE)
-- Sucosoft (Ms-Dos)
+- Sucosoft `[C:\>]`
 - Visual Studio
 - Code::Blocks
 - TI 0S v3.10
