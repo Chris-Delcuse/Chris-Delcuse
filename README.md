@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ⌨️ Environment 
 - 🖥 IDE
-     - Sucosoft `[C:\>]`
-     - Visual Studio
-     - Code::Blocks
+  - Sucosoft `[C:\>]`
+  - Visual Studio
+  - Code::Blocks
 
 - 🚀 OS: Windows • Linux • TI OS v3.10
 
