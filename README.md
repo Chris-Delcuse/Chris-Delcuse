@@ -16,22 +16,21 @@ Here are some ideas to get you started:
 -->
 
 💻 Devices: 
-- TI-Calculator
+- PS3/PS4 Logic Controller
+_(The Easy Product @Eaton-Möeller)_
+- Casio & TI Calculator
 - PC
-- PS3/PS4 Logic Controller _(The Easy Product @Eaton-Möeller)_
 
 👅 Languages: 
+- Instruction List
 - TI-Basic
 - C, C#
-- Instruction List
 - Scripting Linux
 
-⌨️ Environment 
-- 🖥 IDE
+⌨️ Environment:
+- 🚀 OS: Windows • Linux • TI OS v3.10
+- 🖥 IDE:
   - Sucosoft `[C:\>]`
   - Visual Studio
   - Code::Blocks
-
-- 🚀 OS: Windows • Linux • TI OS v3.10
-
 ----
