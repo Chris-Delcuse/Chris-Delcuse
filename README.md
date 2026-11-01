@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 💻 Devices: 
-- PS3/PS4 Logic Controller
-_(The Easy Product @Eaton-Möeller)_
+- PS3/PS4 Logic Controller _(The Easy Product @Eaton-Möeller)_
 - Casio & TI Calculator
 - PC
 
