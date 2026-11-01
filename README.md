@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 - Instruction List
 - Scripting Linux
 
-⌨️ Environment (IDE)
-- Sucosoft `[C:\>]`
-- Visual Studio
-- Code::Blocks
-- TI 0S v3.10
+⌨️ Environment 
+- 🖥 IDE
+     - Sucosoft `[C:\>]`
+     - Visual Studio
+     - Code::Blocks
 
-🚀 OS:
-- Windows
-- Linux
+- 🚀 OS: Windows • Linux • TI OS v3.10
+
+----
