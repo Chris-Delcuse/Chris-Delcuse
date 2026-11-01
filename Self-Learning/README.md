@@ -17,7 +17,7 @@ At the same time, i was testing `HTML`.
 
 ⌨️ Discovered and adopted `Linux`.
 Tested numerous distributions.
-Fully recompiled a distribution to support an `Athlon 64` processor `(x86-64 architecture)`, which had limited native support at the time.
+Fully recompiled a distribution to support an `Athlon 64` processor (`x86-64` architecture), which had limited native support at the time.
 
 ### 2008 (Blackout)
 
