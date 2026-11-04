@@ -37,6 +37,6 @@ Then returned to more foundational work on PC.
 Learned the `C language` using `Code::Blocks`.
 Structured learning through `OpenClassrooms`.
 
-## 2020
+### 2020
 
 Negociations closed !
