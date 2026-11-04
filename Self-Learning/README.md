@@ -27,8 +27,9 @@ Fully recompiled a distribution to support an `Athlon 64` processor (`x86-64` ar
 
 ### 2008 (Blackout)
 
-🕹 Experimented with semantic programming in another #&%&@! gaming world, then returned to more foundational work on PC.
-( First Coma )
+🕹 Experimented with semantic programming in another #&%&@! gaming world ( firdt Coma).
+
+Then returned to more foundational work on PC.
 
 ### 2014
 
