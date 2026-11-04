@@ -36,3 +36,7 @@ Then returned to more foundational work on PC.
 💻 Development environment based on `Linux Mint 17`.
 Learned the `C language` using `Code::Blocks`.
 Structured learning through `OpenClassrooms`.
+
+## 2020
+
+Negociations closed !
