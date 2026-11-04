@@ -5,7 +5,7 @@ A chronological overview of my self-taught programming path.
 -----
 ### 2001
 
-Created a Pong in PS-Basic on my PS2
+🎮 Created a Pong in PS-Basic on my PS2
 
 ### 2006
 
@@ -24,7 +24,7 @@ Fully recompiled a distribution to support an `Athlon 64` processor (`x86-64` ar
 
 ### 2008 (Blackout)
 
-🎮 Experimented with semantic programming, then returned to more foundational work on PC.
+🕹 Experimented with semantic programming, in another gaming world, then returned to more foundational work on PC.
 
 ### 2014
 
