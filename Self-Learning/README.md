@@ -8,7 +8,7 @@ A chronological overview of my self-taught programming path.
 🎮 Created a Pong in PS-Basic on my PS2.
 Including AI error for difficulty levels.
 
-( Perfect nonsense for me and first technical epileptic seizure. )
+( Perfect technical nonsense for me and first epileptic seizure. )
 
 ### 2006
 
