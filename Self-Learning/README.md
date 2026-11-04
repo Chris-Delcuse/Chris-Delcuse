@@ -5,7 +5,10 @@ A chronological overview of my self-taught programming path.
 -----
 ### 2001
 
-🎮 Created a Pong in PS-Basic on my PS2
+🎮 Created a Pong in PS-Basic on my PS2.
+Coding First Level AI error 🤣.
+
+( complete nonsense for me and first epileptic seizure 🤣 )
 
 ### 2006
 
