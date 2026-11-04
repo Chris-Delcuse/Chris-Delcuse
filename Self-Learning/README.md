@@ -3,6 +3,9 @@
 A chronological overview of my self-taught programming path.
 
 -----
+### 2001
+
+Created a Pong in PS-Basic on my PS2
 
 ### 2006
 
