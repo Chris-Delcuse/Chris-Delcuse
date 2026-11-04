@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 💻 Devices: 
 - PS3/PS4 Logic Controller _(The Easy Product @Eaton-Möeller)_
-- Casio & TI Calculator
-- PC
+- Casio, TI Calculator
+- Playstation 2, PC
 
 👅 Languages: 
 - Instruction List
-- TI-Basic
+- TI-Basic & PS-Basic
 - C, C#
 - Scripting Linux
 
