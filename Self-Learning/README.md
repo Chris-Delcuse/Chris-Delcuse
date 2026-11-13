@@ -41,6 +41,4 @@ Structured learning through `OpenClassrooms`.
 
 ### 2020
 
-Ding Ding Ding 🔔  HeadShot !
-
-Negociations closed !
+🔔 Negociations closed !
