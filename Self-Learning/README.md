@@ -29,7 +29,7 @@ Make few contributions here and there _(nothing structured)_, and provide a part
 
 ### 2008 (Blackout)
 
-🕹 Experimented with "semantic" in another #&%&@! gaming world and 2013 first Coma.
+🚬 Experimented with "semantic" and 2013 first Coma.
 
 Then returned to more foundational work on PC.
 
