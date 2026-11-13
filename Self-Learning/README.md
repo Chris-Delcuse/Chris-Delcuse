@@ -25,6 +25,8 @@ At the same time, i was testing `HTML`.
 Tested numerous distributions.
 Fully recompiled a distribution to support an `Athlon 64` processor (`x86-64` architecture), which had limited native support at the time.
 
+I make a few contributions here and there (nothing structured); in particular, I provide the French translation for K9 Java.
+
 ### 2008 (Blackout)
 
 🕹 Experimented with "semantic" in another #&%&@! gaming world (de merde) & 2013 first Coma.
